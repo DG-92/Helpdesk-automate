@@ -45,6 +45,8 @@ Editar
 │── server.cjs           # Arquivo principal da API
 │── package.json         # Dependências do projeto
 │── README.md            # Documentação do projeto
+
+
 🔧 Instalação e Execução
 1️⃣ Clone o repositório
 bash
